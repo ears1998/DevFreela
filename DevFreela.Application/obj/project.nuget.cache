@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7n5C1bdPqptczGLaYFYEpQyrC/q9iD01OqWp9iO6OInEOuZK6xBiMpBV3MVSYZA+75n3LV/VClD541WRehtpFg==",
+  "dgSpecHash": "2srgvMc3pk/jcuZovS9Mj4xd43Xw52mZmwszpjFt0R/xclmoDub+0ZYsvSaPVD8iy5neuQwwXBd6iwzRBRF3Tw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
+  "projectFilePath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduar\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512",

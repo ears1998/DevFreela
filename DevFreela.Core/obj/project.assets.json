@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
+      "projectUniqueName": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
       "projectName": "DevFreela.Core",
-      "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
+      "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
       "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Core\\obj\\",
+      "outputPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",

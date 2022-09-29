@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.API\\DevFreela.API.csproj": {}
+    "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.API\\DevFreela.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.API\\DevFreela.API.csproj": {
+    "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.API\\DevFreela.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
         "projectName": "DevFreela.API",
-        "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
+        "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.API\\obj\\",
+        "outputPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj": {
-                "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj"
+              "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj": {
+                "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj"
               },
-              "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
-                "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
+              "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+                "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
               },
-              "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj"
+              "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj": {
+    "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
         "projectName": "DevFreela.Application",
-        "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
+        "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Application\\obj\\",
+        "outputPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -120,11 +120,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
-                "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
+              "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+                "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
               },
-              "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj"
+              "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj"
               }
             }
           }
@@ -172,14 +172,14 @@
         }
       }
     },
-    "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+    "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
         "projectName": "DevFreela.Core",
-        "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
+        "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Core\\obj\\",
+        "outputPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -227,14 +227,14 @@
         }
       }
     },
-    "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj": {
+    "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
         "projectName": "DevFreela.Infrastructure",
-        "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -251,8 +251,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
-                "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
+              "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+                "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
               }
             }
           }

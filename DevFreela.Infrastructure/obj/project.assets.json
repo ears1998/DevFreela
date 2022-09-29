@@ -2065,11 +2065,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
       "projectName": "DevFreela.Infrastructure",
-      "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2086,8 +2086,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
-              "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
+            "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+              "projectPath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
             }
           }
         }

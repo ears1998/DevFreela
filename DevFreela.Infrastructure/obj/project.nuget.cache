@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kbl47R051iPIGgUpIsgtYftD+fKZ9/Jm/RkxV/rJUDl87PwwaA1BoPMPZlM1iMQhKF/BbUzU5BbE3RYbKZ9SLQ==",
+  "dgSpecHash": "9yik3K48GRxqEg4P2fusRm4qGxd2SJIPr/uBRTOWwPZxz68bBHtHhpG+gb26xPVOj47Zb7Zh6mzu5GhmPgdOJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\Backup 29092022\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\eduar\\Documents\\Workspace\\FormacaoAspNetCore\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduar\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
