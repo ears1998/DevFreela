@@ -1,0 +1,17 @@
+Example request for CreateUser in DevFreela:
+
+{
+  "fullName": "Eduardo Sampaio",
+  "userName": "EduRibS",
+  "password": "Ocarina1@",
+  "role": "Client",
+  "email": "eduardo.forum@hotmail.com",
+  "birthDate": "1998-04-16T21:30:30.760Z"
+}
+
+
+Example request for LoginUser in DevFreela:
+{
+  "email": "eduardo.forum@hotmail.com",
+  "password": "Ocarina1@"
+}
