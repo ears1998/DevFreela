@@ -10,18 +10,6 @@ C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\FormacaoAspNetCore\DevFree
 C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\refint\DevFreela.Core.dll
 C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.pdb
 C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\ref\DevFreela.Core.dll
-C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\bin\Debug\net6.0\DevFreela.Core.deps.json
-C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\bin\Debug\net6.0\DevFreela.Core.dll
-C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\bin\Debug\net6.0\DevFreela.Core.pdb
-C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.csproj.AssemblyReference.cache
-C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.AssemblyInfoInputs.cache
-C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.AssemblyInfo.cs
-C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.csproj.CoreCompileInputs.cache
-C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.dll
-C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\refint\DevFreela.Core.dll
-C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.pdb
-C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\ref\DevFreela.Core.dll
 C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\Backup 29092022\DevFreela\DevFreela.Core\bin\Debug\net6.0\DevFreela.Core.deps.json
 C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\Backup 29092022\DevFreela\DevFreela.Core\bin\Debug\net6.0\DevFreela.Core.dll
 C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\Backup 29092022\DevFreela\DevFreela.Core\bin\Debug\net6.0\DevFreela.Core.pdb
@@ -34,3 +22,15 @@ C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\Backup 29092022\DevFreela\
 C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\Backup 29092022\DevFreela\DevFreela.Core\obj\Debug\net6.0\refint\DevFreela.Core.dll
 C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\Backup 29092022\DevFreela\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.pdb
 C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\Backup 29092022\DevFreela\DevFreela.Core\obj\Debug\net6.0\ref\DevFreela.Core.dll
+C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\bin\Debug\net6.0\DevFreela.Core.deps.json
+C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\bin\Debug\net6.0\DevFreela.Core.dll
+C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\bin\Debug\net6.0\DevFreela.Core.pdb
+C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.csproj.AssemblyReference.cache
+C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.AssemblyInfo.cs
+C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.dll
+C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\refint\DevFreela.Core.dll
+C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.pdb
+C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net6.0\ref\DevFreela.Core.dll
