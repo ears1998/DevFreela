@@ -9,12 +9,12 @@ namespace DevFreela.Infrastructure.Persistence.Repositories
     public class SkillRepository : ISkillRepository
     {
         private readonly IConfiguration _configuration;
-        private readonly ConnectionFactory _connectionFactory;
+        private readonly DatabaseConnectionFactory _connectionFactory;
 
         public SkillRepository(IConfiguration configuration)
         {
             _configuration = configuration;
-            _connectionFactory = new ConnectionFactory(configuration);
+            _connectionFactory = new DatabaseConnectionFactory(configuration);
         }
 
         public async Task<List<SkillDTO>> GetAllAsync()

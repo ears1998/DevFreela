@@ -3,11 +3,11 @@ using Microsoft.Extensions.Configuration;
 
 namespace DevFreela.Infrastructure.Factories
 {
-    public class ConnectionFactory
+    public class DatabaseConnectionFactory
     {
         private readonly IConfiguration _configuration;
 
-        public ConnectionFactory(IConfiguration configuration)
+        public DatabaseConnectionFactory(IConfiguration configuration)
         {
             _configuration = configuration;
             DevFreelaConnectionString = _configuration.GetConnectionString("DevFreelaConnectionString");

@@ -161,6 +161,7 @@ C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.API\bi
 C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.API\bin\Debug\net6.0\RabbitMQ.Client.dll
 C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\eduar\Documents\Workspace\FormacaoAspNetCore\DevFreela\DevFreela.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll

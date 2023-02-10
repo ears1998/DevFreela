@@ -412,3 +412,15 @@ DevFreela.UnitTests/obj/Debug/net6.0/DevFreela.UnitTests.dll
 DevFreela.UnitTests/obj/Debug/net6.0/DevFreela.UnitTests.pdb
 DevFreela.UnitTests/obj/Debug/net6.0/ref/DevFreela.UnitTests.dll
 DevFreela.UnitTests/obj/Debug/net6.0/refint/DevFreela.UnitTests.dll
+DevFreela.Infrastructure/obj/Debug/net6.0/DevFreela.Infrastructure.csproj.AssemblyReference.cache
+DevFreela.API/obj/Debug/net6.0/DevFreela.API.assets.cache
+DevFreela.API/obj/Debug/net6.0/DevFreela.API.csproj.AssemblyReference.cache
+DevFreela.Application/obj/Debug/net6.0/DevFreela.Application.assets.cache
+DevFreela.Application/obj/Debug/net6.0/DevFreela.Application.assets.cache
+DevFreela.Application/obj/Debug/net6.0/DevFreela.Application.csproj.AssemblyReference.cache
+DevFreela.Infrastructure/obj/Debug/net6.0/DevFreela.Infrastructure.assets.cache
+DevFreela.Infrastructure/obj/Debug/net6.0/DevFreela.Infrastructure.csproj.AssemblyReference.cache
+DevFreela.UnitTests/obj/Debug/net6.0/DevFreela.UnitTests.assets.cache
+*.cache
+DevFreela.UnitTests/obj/Debug/net6.0/DevFreela.UnitTests.csproj.AssemblyReference.cache
+*.cache

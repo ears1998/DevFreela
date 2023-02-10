@@ -112,7 +112,7 @@ namespace DevFreela.API.Controllers
 
             await _mediator.Send(finishProjectCommand);
 
-            return NoContent();
+            return Accepted();
         }
     }
 }

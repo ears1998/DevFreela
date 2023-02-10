@@ -1,11 +1,14 @@
 using DevFreela.API.Filters;
 using DevFreela.Application.Commands.CreateProject;
+using DevFreela.Application.Consumers;
 using DevFreela.Application.Validators;
 using DevFreela.Core.Repositories.Interfaces;
 using DevFreela.Core.Services;
 using DevFreela.Infrastructure.Authorization;
+using DevFreela.Infrastructure.MessageBus;
 using DevFreela.Infrastructure.Persistence;
 using DevFreela.Infrastructure.Persistence.Repositories;
+using DevFreela.Infrastructure.Services;
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using MediatR;
@@ -88,10 +91,18 @@ builder.Services.AddScoped<IProjectCommentsRepository, ProjectCommentsRepository
 
 //Injecting Services
 builder.Services.AddScoped<IAuthorizationService, AuthorizationService>();
+builder.Services.AddScoped<IPaymentService, PaymentService>();
+builder.Services.AddScoped<IMessageBusService, MessageBusService>();
 
 //Injecting Validator For Validating Data
 builder.Services.AddFluentValidationAutoValidation().AddFluentValidationClientsideAdapters();
 builder.Services.AddValidatorsFromAssemblyContaining<CreateUserCommandValidator>();
+
+//Injecting HttpClient
+builder.Services.AddHttpClient();
+
+//Injecting Hosted Services
+builder.Services.AddHostedService<PaymentApprovedConsumer>();
 
 var app = builder.Build();
 

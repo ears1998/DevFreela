@@ -44,8 +44,11 @@ namespace DevFreela.Core.Entities
 
         public void Finish()
         {
-            Status = ProjectStatus.Finished;
-            FinishedAt = DateTime.Now;
+            if(Status == ProjectStatus.PaymentPending)
+            {
+                Status = ProjectStatus.Finished;
+                FinishedAt = DateTime.Now;
+            }           
         }
 
         public void Cancel() => Status = ProjectStatus.Cancelled;
@@ -55,6 +58,12 @@ namespace DevFreela.Core.Entities
             Title = title;
             Description = description;
             TotalCost = totalCost;
+        }
+
+        public void SetPaymentPendingStatus()
+        {
+            Status = ProjectStatus.PaymentPending;
+            FinishedAt = null;
         }
 
         
